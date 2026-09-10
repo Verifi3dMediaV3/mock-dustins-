@@ -1,0 +1,13 @@
+dustins-excavating/
+├── index.html          Homepage — hero, services overview, process, testimonial, CTA
+├── services.html        Detailed breakdown of all 6 services
+├── gallery.html          Illustrated project gallery (6 sample projects)
+├── about.html            Company story, values, licensing/insurance
+├── contact.html          Quote request form + business info + map graphic
+├── 404.html               Custom "page not found" page
+├── css/
+│   └── style.css        All styles (design tokens, layout, responsive rules)
+├── js/
+│   └── main.js           Mobile nav toggle, form validation, footer year
+├── vercel.json            Minimal Vercel config (clean URLs)
+└── README.md               This file
